@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="834213d9-b9af-498e-8cbd-62adaba758b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PaymentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaymentController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/payments/status.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/payments/status.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +183,7 @@
       <workItem from="1600030930664" duration="997000" />
       <workItem from="1600058666023" duration="9000" />
       <workItem from="1600535857872" duration="11300000" />
-      <workItem from="1600590772748" duration="10861000" />
+      <workItem from="1600590772748" duration="10917000" />
     </task>
     <servers />
   </component>

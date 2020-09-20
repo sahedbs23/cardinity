@@ -8,7 +8,7 @@
 </p>
 
 ## How to Use this application
-After the pull the code and composer update (For more info take a look at laravel installation page https://laravel.com/docs/8.x#installation)
+    - After the pull the code and composer update (For more info take a look at laravel installation page https://laravel.com/docs/8.x#installation)
     - Run the migration 
     - Run the Seeder
     - Login and go to products tab
