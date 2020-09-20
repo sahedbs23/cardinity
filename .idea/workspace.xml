@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="834213d9-b9af-498e-8cbd-62adaba758b0" name="Default Changelist" comment="" />
+    <list default="true" id="834213d9-b9af-498e-8cbd-62adaba758b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cardinity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cardinity.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -116,7 +131,6 @@
       <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
-      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
       <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
       <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
       <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
@@ -131,6 +145,9 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
       <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/oauth-subscriber" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/cardinity/cardinity-sdk-php" />
     </include_path>
   </component>
   <component name="ProjectId" id="1hOz4oy9c5DAGKPPhWv0JKXNUzd" />
@@ -143,9 +160,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/payments" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/payments" />
+      <recent name="$PROJECT_DIR$/app/Repositories" />
+      <recent name="$PROJECT_DIR$/app/Repositories/Contracts" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -161,7 +185,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599896737239</updated>
-      <workItem from="1599896738392" duration="1693000" />
+      <workItem from="1599896738392" duration="15548000" />
+      <workItem from="1599941964869" duration="2462000" />
+      <workItem from="1599944529394" duration="60000" />
+      <workItem from="1599944590340" duration="4841000" />
+      <workItem from="1599986777872" duration="30749000" />
+      <workItem from="1600030930664" duration="997000" />
+      <workItem from="1600058666023" duration="9000" />
+      <workItem from="1600535857872" duration="11300000" />
+      <workItem from="1600590772748" duration="9230000" />
     </task>
     <servers />
   </component>
@@ -169,9 +201,29 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="135" width="618" height="522" key="find.popup" timestamp="1599897022668">
+    <state x="426" y="99" width="504" height="594" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599924521594">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="374" y="135" width="618" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1599897022668" />
+    <state x="426" y="99" width="504" height="594" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1599924521594" />
+    <state x="416" y="154" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600006620818">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="154" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1366.741@0.27.1366.741" timestamp="1600006620818" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1600552601440">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1600552601440" />
+    <state x="425" y="116" width="505" height="561" key="NewPhpClassDialog" timestamp="1600024553986">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="425" y="116" width="505" height="561" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1600024553986" />
+    <state x="478" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1600029570556">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="478" y="322" width="399" height="149" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1600029570556" />
+    <state x="374" y="135" width="710" height="522" key="find.popup" timestamp="1600613063803">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="374" y="135" width="710" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1600613063803" />
   </component>
 </project>
