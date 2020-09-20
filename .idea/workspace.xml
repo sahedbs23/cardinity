@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="834213d9-b9af-498e-8cbd-62adaba758b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cardinity.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cardinity.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PaymentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PaymentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/payments/status.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/payments/status.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +186,7 @@
       <workItem from="1600030930664" duration="997000" />
       <workItem from="1600058666023" duration="9000" />
       <workItem from="1600535857872" duration="11300000" />
-      <workItem from="1600590772748" duration="9230000" />
+      <workItem from="1600590772748" duration="10861000" />
     </task>
     <servers />
   </component>
@@ -221,9 +214,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="478" y="322" width="399" height="149" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1600029570556" />
-    <state x="374" y="135" width="710" height="522" key="find.popup" timestamp="1600613063803">
+    <state x="374" y="135" width="710" height="522" key="find.popup" timestamp="1600613426149">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="374" y="135" width="710" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1600613063803" />
+    <state x="374" y="135" width="710" height="522" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1600613426149" />
   </component>
 </project>
