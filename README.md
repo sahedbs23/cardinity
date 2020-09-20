@@ -6,10 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## 
 ## How to Use this application
-    - This application developed on ubuntu 18.04, mysql  Ver 14.14 Distrib 5.7.31, for Linux (x86_64) using  EditLine wrapper, php 7.4
-    - After the pull the code and composer update (For more info take a look at laravel installation page https://laravel.com/docs/8.x#installation)
+   
+- This application developed on 
+    - ubuntu 18.04
+    - mysql  Ver 14.14 Distrib 5.7.31, for Linux (x86_64) using  EditLine wrapper
+    - php 7.4
+    
+- After the pull the code and composer update (For more info take a look at laravel installation page https://laravel.com/docs/8.x#installation)
     - Run the migration 
     - Run the Seeder
     - Login and go to products tab
